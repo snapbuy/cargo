@@ -1,3 +1,3 @@
 fn main() {
-    printls!("안녕하시쥬?");
+    println!("안녕하시쥬?");
 }
